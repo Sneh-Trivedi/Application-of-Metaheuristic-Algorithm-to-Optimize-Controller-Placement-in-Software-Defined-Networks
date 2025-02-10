@@ -41,4 +41,4 @@ Objective Function Performance: Shows a balance between fixed costs and propagat
 Execution Time Analysis: The GA exhibits near-linear growth in execution time with the number of controllers.
 Optimal Locations: Visualizations display controller placements that minimize costs and latency.
 
-### This implementation is based on the research paper titled "Application of Metaheuristic Algorithms to Optimize Controller Placement in Software-Defined Networks (SDNs)" by Sneh Trivedi et al. For detailed insights, refer to the publication on [ResearchGate](https://www.researchgate.net/publication/383824472_Application_of_Metaheuristic_Algorithms_to_Optimize_Controller_Placement_in_Software-Defined_Networks_SDNs).
+#### _This implementation is based on the research paper titled "Application of Metaheuristic Algorithms to Optimize Controller Placement in Software-Defined Networks (SDNs)" by Sneh Trivedi et al. For detailed insights, refer to the publication on [ResearchGate](https://www.researchgate.net/publication/383824472_Application_of_Metaheuristic_Algorithms_to_Optimize_Controller_Placement_in_Software-Defined_Networks_SDNs)._
